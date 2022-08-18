@@ -1,0 +1,14 @@
+.li{
+  margin-bottom: 20px;
+  border: 2px solid gray;
+}
+
+.users__wrapper{
+  list-style: none;
+  padding: 0;
+}
+
+.users__li{
+  border: 1px solid gray;
+ width: 500px;
+}
